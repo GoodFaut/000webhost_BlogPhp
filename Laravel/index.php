@@ -7,5 +7,5 @@
  */
 ?>
 <div>
-    <h1>Pending...</h1>
+    <h1>goto server.php NOTE: IS PENDING TO FINISH</h1>
 </div>
